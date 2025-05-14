@@ -22,7 +22,7 @@ pnpm add @encriva/better-auth-enchanced
 ## 🚀 Quick Start
 
 ```typescript
-import { username } from '@clqu/better-auth-enchanced';
+import { username } from '@wncriva/better-auth-enchanced';
 
 const auth = new betterAuth({
 	plugins: [
