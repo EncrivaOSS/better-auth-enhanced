@@ -41,7 +41,7 @@ const auth = new betterAuth({
 
 ## 📘 Documentation
 
-For more detailed information, visit our [official documentation](https://developers.encriva.com/packages/better-auth-enchanced).
+For more detailed information, visit our [official documentation](https://developers.encriva.com/packages/better-auth-enchanced/installation).
 
 ## 📜 License
 
